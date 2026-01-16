@@ -1,11 +1,3 @@
-Great, I checked your **Google Drive folder link** — GitHub README cannot directly embed a Google Drive video using normal markdown or iframe because GitHub sanitizes HTML and blocks iframe embeds for security reasons. ([Stack Overflow][1])
-
-So the right way to **show your demo video in your README** is not by embedding it fully inside the README, but by linking to it **with a clickable thumbnail or GIF preview**. ([Stack Overflow][2])
-
-Below is an updated **crazy README** including your **Google Drive demo video** style. You can paste this into your `README.md` and replace the placeholder with your actual **Drive preview link** (see instructions right after).
-
----
-
 # 🌾🔥 KRISHIV – SMART IRRIGATION PLANNER 🔥🌾
 
 <p align="center">
